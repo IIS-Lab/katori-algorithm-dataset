@@ -5,7 +5,7 @@
 ## 説明
 
 - `problems`: 問題及び解答ソースコード
-  - `problems.md`: 30 問の問題一覧(AtCoder, AOJ, 自作問題へのリンク一覧)
+  - `problems.md`: 30 問の問題一覧(AtCoder, AOJ, 自作問題へのリンク一覧, Markdown ファイル)
   - `answers`: 30 問分の解答ソースコード(python ファイル)
 - `dataset`: 収集した生データ及びそれを加工したデータ
   - `raw`: 生データ(csv ファイル)
@@ -14,7 +14,7 @@
   - `processed`: 加工したデータ
     - `problem`: 問題ごとにファイルを分けたデータ(csv ファイル)
     - `participant`: 実験参加者ごとにファイルを分けたデータ(csv ファイル)
-  - `labeled`: 理由データにラベリングしたデータ
+  - `labeled`: 理由データにラベリングしたデータ(csv ファイル)
   - `visualization` : 問題ごとに重要な行と理由を可視化したデータ(Markdown ファイル)
 
 ## 発表文献
